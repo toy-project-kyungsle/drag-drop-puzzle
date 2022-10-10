@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --facebook: #3b5998;
+}
+
+.wrap-all {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.play-time {
+    font-size: 3rem;
+    margin-top: 2rem;
+    color: var(--facebook);
+}
+
+ul {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 1rem;
+    list-style: none;
+    border: 2px solid var(--facebook);
+}
+
+li {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    color: #fff;
+}
