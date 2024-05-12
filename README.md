@@ -12,4 +12,4 @@ https://keinn51.github.io/drag_drop_puzzle/
 
 # 구동 영상
 
-https://youtu.be/yeVRxoZ0_I4 
+https://youtu.be/gp6juqzsbns
